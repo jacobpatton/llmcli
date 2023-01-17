@@ -5,7 +5,7 @@ import logging
 import os
 import sys
 
-from revChatGPT.revChatGPT import Chatbot
+from revChatGPT.ChatGPT import Chatbot
 
 
 def common_config(parser):
